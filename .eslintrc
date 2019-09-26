@@ -2,5 +2,9 @@
   "extends": "htmlacademy/es5",
   "rules": {
       // Additional rules...
+  },
+  "env": {
+    "browser": true,
+    "node": true
   }
 }
